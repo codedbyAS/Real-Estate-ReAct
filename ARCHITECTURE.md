@@ -245,4 +245,3 @@ On screens narrower than 768 px:
 
 ---
 
-*Document generated 2026-07-13. Reflects codebase at commit `0e5cb07`.*
